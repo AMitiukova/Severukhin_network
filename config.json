@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Aleks"
+  },
+  "text": {
+    "more": "Graph depicts Severukhin\u0027s directory data of art associations and their members in 19 and 20 century Russia and early Soviet Union. Dataset is created with help of students of 1st year masters program \"Modern museum practicies and curatorial strategies\" of European University in St Petersburg as a homework for course of \"Introduction in Digital Humanities\" under the conduct of course curator Aleksandra Mitiukova. 2025",
+    "intro": "graph depicts Severukhin\u0027s directory data of art associations and their members in 19 and 20 century Russia and early Soviet Union",
+    "title": "Severukhin_directory_graph"
+  },
+  "legend": {
+    "edgeLabel": "participation",
+    "colorLabel": "modularity",
+    "nodeLabel": "associatin/member"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
