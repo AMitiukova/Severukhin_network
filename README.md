@@ -1,7 +1,7 @@
-[![DOI](https://zenodo.org/badge/965637297.svg)](https://doi.org/10.5281/zenodo.17921026)
-
 # Сетевой анализ художественных объединений России и СССР (1820–1932)
 ## Учебный DH-проект магистратуры Европейского университета
+
+[![DOI](https://zenodo.org/badge/965637297.svg)](https://doi.org/10.5281/zenodo.17921026)
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-online-brightgreen)](https://<username>.github.io/<repo>)
 
